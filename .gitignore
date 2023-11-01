@@ -1,0 +1,9 @@
+/target
+Cargo.lock
+
+/.idea/
+*.iml
+/data.txt
+
+.vscode/
+
